@@ -12,4 +12,4 @@ Automated end-to-end test suite built with Cypress, covering key user flows on t
 - JavaScript
 
 ## Why this exists
-Built to practice test automation and strengthen API/UI testing skills alongside manual QA work. Manual test cases and bug reports from other projects are in my [portfolio link — add once ready].
+Built to practice test automation and strengthen API/UI testing skills alongside manual QA work.
